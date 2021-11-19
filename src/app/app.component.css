@@ -2,12 +2,12 @@ p {
   font-family: Lato;
 }
 
-div {
-  width: 300px;
-  border: 15px rgb(0, 238, 255);
-  padding: 25px ;
-  margin: 10px ;
+<style>
+.voorstel {
+  background-color: dodgerblue;
+  color: white;
+  border: 2px solid black ;
+  margin: 20px;
+  padding: 20px
 }
-body {background-color: aquamarine;
-color: white  }
-
+</style>
